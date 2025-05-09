@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+agno
+Pillow
+duckduckgo-search
+google-generativeai
+google-genai
+PyPDF2
+python-dotenv
